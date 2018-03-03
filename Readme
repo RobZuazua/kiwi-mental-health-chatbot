@@ -1,0 +1,9 @@
+Hackathon project
+
+- Combined googles NLP library (dialogflow) with Part of speech tagger (spacy) then deployed using flask
+- Created a bot specialized in CBT http://www.nacbt.org/whatiscbt-htm/
+- found relationships between words and tried to get users to question irrational relationships
+
+May still be live. Unpolished and hacky 3 day project so dont expect much perfect NLP :p
+http://174.138.2.82/ 
+
